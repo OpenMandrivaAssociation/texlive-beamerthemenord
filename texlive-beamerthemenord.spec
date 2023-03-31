@@ -1,6 +1,6 @@
 Name:		texlive-beamerthemenord
 Version:	56180
-Release:	1
+Release:	2
 Summary:	A simple beamer theme using the "Nord" color theme
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamerthemenord
